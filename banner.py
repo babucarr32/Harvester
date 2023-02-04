@@ -25,12 +25,12 @@ bannerDisplay = f"""
 || |  __)| |/ _  |/ ___) | | / _  )/___)  _)/ _  )/ ___) ||
 || | |   | ( ( | | |    \ V ( (/ /|___ | |_( (/ /| |     ||
 || |_|   |_|\_||_|_|     \_/ \____|___/ \___)____)_|     ||
+||                                                       ||
 ||                  {style.WHITE}  By: Baboucarr Badjie               {style.RESET}||   
 ||{style.RED}                        Please note this tool uses     {style.RESET}||    
 ||{style.RED}                    webscraping tools to fetch data.   {style.RESET}||       
 ||{style.RED}                    By using this tool, you agree      {style.RESET}||   
-||{style.RED}                    that you are responsible for any   {style.RESET}||     
-||{style.RED}                    violation of rules caused by this  {style.RESET}||         
-||{style.RED}                    tool!                              {style.RESET}||  
+||{style.RED}                    that you are responsible for       {style.RESET}||     
+||{style.RED}                    anything caused by this tool! {style.RESET}     ||   
 +=========================================================+                                                
 """
